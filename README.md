@@ -1,3 +1,11 @@
+##🐦 Bird Image Classification
+
+
+
+
+📌 Overview
+
+
 This project focuses on classifying 25 Indian bird species using Machine Learning and Deep Learning techniques.
 
 The system takes an image as input and predicts the bird species with high accuracy.
