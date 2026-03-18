@@ -1,34 +1,30 @@
-Bird Image Classification
-
-
-
+🐦 Bird Image Classification
+<p align="center"> <b>Deep Learning based Mobile Bird Species Classifier</b><br> Classifies 25 Indian bird species using TensorFlow Lite </p>
 📌 Overview
-
 
 This project focuses on classifying 25 Indian bird species using Machine Learning and Deep Learning techniques.
 
 The system takes an image as input and predicts the bird species with high accuracy.
-
-To ensure efficient deployment, the trained model is converted into TensorFlow Lite (.tflite), making it suitable for mobile and edge devices.
+The trained model is converted into TensorFlow Lite (.tflite) for fast and efficient deployment on mobile devices.
 
 🚀 Features
 
 🧠 Deep Learning-based image classification
 
-📸 Supports real-time image input
+📸 Real-time image input support
 
-⚡ Lightweight and optimized using TensorFlow Lite
+⚡ Lightweight model using TensorFlow Lite
 
 🎯 Classifies 25 Indian bird species
 
-📱 Fully compatible with Flutter mobile apps
+📱 Flutter-based mobile application
 
 📂 Dataset
 
-🔗 Kaggle Dataset:
+Kaggle Dataset
 https://www.kaggle.com/datasets/arjunbasandrai/25-indian-bird-species-with-226k-images
 
-🔗 Additional Source:
+Additional Source
 https://media.ebird.org/
 
 🏗️ Project Structure
@@ -46,63 +42,63 @@ Python – Model training
 
 TensorFlow / Keras – Deep Learning
 
-TensorFlow Lite – Model optimization & deployment
+TensorFlow Lite – Model deployment
 
-Flutter – Cross-platform mobile app
+Flutter – Mobile application
 
 🧠 Model Details
 
-Model Type: Convolutional Neural Network (CNN)
+Model: Convolutional Neural Network (CNN)
 
-Input: Bird Image
+Input: Bird image
 
-Output: Bird Species (25 classes)
+Output: Bird species (25 classes)
 
-Deployment Format: .tflite (optimized for mobile)
+Format: TensorFlow Lite (.tflite)
 
-📱 Application Workflow
+📱 How It Works
 
 User selects or captures an image
 
 Image is preprocessed
 
-Model performs prediction
+Model predicts the bird species
 
-Predicted bird species is displayed
+Result is displayed in the app
 
 🛠️ Installation & Setup
-1️⃣ Clone the Repository
+1. Clone the repository
 git clone https://github.com/your-username/Bird-Image-Classification.git
 cd Bird-Image-Classification
-2️⃣ Install Dependencies
+2. Install dependencies
 flutter pub get
-3️⃣ Run the Application
+3. Run the app
 flutter run
-📊 Future Enhancements
+📊 Future Improvements
 
-🔍 Increase number of bird species
+🔍 Add more bird species
 
-📈 Improve model accuracy with advanced architectures
+📈 Improve model accuracy
 
-🌐 Deploy model as an API
+🌐 API-based prediction
 
-🗺️ Add bird details (habitat, description, etc.)
+🗺️ Bird details (habitat, info)
 
-🎥 Enable real-time camera detection
+🎥 Live camera detection
 
 🤝 Contributing
 
 Contributions are welcome!
-Feel free to fork this repository and submit a pull request.
+Feel free to fork and submit a pull request.
 
 📜 License
 
-This project is developed for educational purposes only.
+This project is for educational purposes only.
 
 👨‍💻 Author
 
 Shubham Thakkar
 
-⭐ Show Your Support
+⭐ Support
 
-If you like this project, please ⭐ the repository!
+If you found this useful, give it a ⭐ on GitHub!
