@@ -1,5 +1,4 @@
-##🐦 Bird Image Classification
-
+Bird Image Classification
 
 
 
